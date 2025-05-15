@@ -31,11 +31,20 @@ The project investigates:
 ## How to run
 
 1. Clone this repository:
+   https://github.com/xsslush/chaos-theory.git
 
-2. Navigate into the project folder:
+3. Navigate into the project folder:
+  cd chaos-theory
 
-3. Install dependencies:
+5. Install dependencies:
    ```python
    pip install numpy matplotlib
 
-5. Run the Python scripts using your IDE or terminal.
+6. Run the Python scripts using your IDE or terminal.
+
+
+> Written and developed by a high school student passionate about mathematics and technology.
+
+---
+
+Feel free to share feedback or improvements!
