@@ -10,7 +10,7 @@ This is a scientific and educational project developed by a student to explore t
 The project investigates:
 
 - The mathematical concept of **chaos**
-- The behavior of the **logistic map**: \( x_{n+1} = r \cdot x_n \cdot (1 - x_n) \)
+- The behavior of the **logistic map**: \(x_{n}+1=rx_{n}\cdot \left(1-x_{n}\right)\)
 - How small changes in parameters can lead to **dramatically different outcomes**
 - Beautiful visualizations that reveal patterns, bifurcations, and unpredictability
 
@@ -32,19 +32,12 @@ The project investigates:
 
 1. Clone this repository:
    https://github.com/xsslush/chaos-theory.git
-
-3. Navigate into the project folder:
+2. Navigate into the project folder:
   cd chaos-theory
-
-5. Install dependencies:
+3. Install dependencies:
    ```python
    pip install numpy matplotlib
-
-6. Run the Python scripts using your IDE or terminal.
-
+4. Run the Python scripts using your IDE or terminal.
 
 > Written and developed by a high school student passionate about mathematics and technology.
-
----
-
 Feel free to share feedback or improvements!
