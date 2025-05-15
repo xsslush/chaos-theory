@@ -33,11 +33,11 @@ The project investigates:
 1. Clone this repository:
    https://github.com/xsslush/chaos-theory.git
 2. Navigate into the project folder:
-  cd chaos-theory
+  ```bash
+   cd chaos-theory
+  ```
 3. Install dependencies:
    ```python
    pip install numpy matplotlib
+   ```
 4. Run the Python scripts using your IDE or terminal.
-
-> Written and developed by a high school student passionate about mathematics and technology.
-Feel free to share feedback or improvements!
